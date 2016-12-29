@@ -2,3 +2,6 @@ Matrix Multiplication
 Properties of Matrix Multiplication
 Matrix Transformations
 Linear Transformations of 1 Dimensional Space
+Linear Transformations of 2 Dimensional Space
+NonLinear Transformations of 1 Dimensional Space
+NonLinear Transformations of 2 Dimensional Space
