@@ -1,2 +1,2 @@
 # expert-invention
-Today I Learned
+A log of things I learned in a day.
