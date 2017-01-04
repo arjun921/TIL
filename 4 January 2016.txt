@@ -1,2 +1,3 @@
 how to print a board game - only printing! no game logic so far
-
+x<-15 to a variable in py means integer init
+x<-15.0 to a variable means decimal init
