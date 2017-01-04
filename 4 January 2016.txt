@@ -1,0 +1,2 @@
+how to print a board game - only printing! no game logic so far
+
