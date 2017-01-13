@@ -1,0 +1,16 @@
+arrays in python can be done using a list.
+
+spaced inputs can be taken by the following code:
+s = input().strip().split(' ')
+input format:
+2 4 6 2 3 5 7 8
+s = ['2','4','6','2','3','5','7','8']
+
+printing an array without [] or ,
+s = [2, 3, 4, 1]
+print (s)
+output:
+[2, 3, 4, 1]
+print (*s)
+output:
+2 3 4 1

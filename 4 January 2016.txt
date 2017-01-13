@@ -17,3 +17,5 @@ True or True = True
 
 Not True is False
 Not False is True
+""" means docstring or sorta comment
+
