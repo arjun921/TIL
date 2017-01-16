@@ -1,0 +1,3 @@
+input() in python2 can be used to take int input
+raw_input() in python2 can be used to take string input
+int(raw_input()) converts string into integer
