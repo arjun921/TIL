@@ -64,5 +64,12 @@ lists = [
  [1, 'n', 'a'],
  [1, 'n', 'v']
 ]
-mode, mean, and its formulae
-The shape of a skewed distribution, gaussian/normally distributed data
+mean median mode and its formulae
+The shape of a skewed distribution, gaussian/norma; distributed data
+Shape of uniform distribution is a straight line
+Interquartile range
+outlier calculation
+variance
+standard deviation
+deviation
+proportion
