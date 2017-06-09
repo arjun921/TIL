@@ -1,0 +1,17 @@
+cv2 get pixel color
+cv2 set pixel color
+cv2 set area color
+cv2 roi
+adding image as overlay of same size
+adding image of different size as overlay
+color filter/color tracking - recap
+thresholding
+blurring
+smoothing
+gradients
+edge detection
+template matching
+foreground extraction
+corners detection
+feature matching(pending running)
+haar-cascade facial detection
