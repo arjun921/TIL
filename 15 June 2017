@@ -1,0 +1,9 @@
+image classifier using tensorflow
+transfer learning using tensorflow > inception model
+what logistic classification means > classification using linear classifier
+	WX + b = y
+	W = weight
+	b = bias
+	machine learning to identify the best values for W and b to perform predictions 
+
+Softmax function converts scores(logits) into proper probabilities(sum to 1, large when scores large)
